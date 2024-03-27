@@ -28,7 +28,7 @@ This repository showcases a series of web development projects that demonstrate 
 
 ## Additional Notes:
 
-- Each project folder contains its respective source code, assets, and README.md file providing specific instructions and details.
+- Each project folder contains its respective source code and assets
 
 ## Acknowledgments:
 
