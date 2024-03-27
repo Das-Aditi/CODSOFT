@@ -36,6 +36,7 @@ I would like to express my gratitude to CodSoft for providing valuable insights 
 
 ---
 
-*Author: Aditi Das 
-Date: 30/11/2023
+Author: Aditi Das 
+
+
 
